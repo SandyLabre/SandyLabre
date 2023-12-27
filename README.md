@@ -27,3 +27,20 @@ Previously, I temporarily worked as a Technical Support Assistant, where I was r
 
 My goal is to combine my expertise in customer service and financial consulting with my technical skills, contributing significantly to the growth and success of the organization. I am always open to new challenges and opportunities for professional development.
 
+## Ferramentas e Tecnologias
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+
+## Estou aprendendo
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+          
+## Contatos:
+
+<div>
+<a href="https://https://www.linkedin.com/in/sandy-labre-shima-7a705b276/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>         
+          
+          
+
