@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Sandy and my nickname is "Labre Shima "!
 
-## Currently seeking an internship opportunity in the IT field or actively looking for work in the area, I am a motivated student in Analysis and Systems Development eager to apply my theoretical knowledge in a practical environment.
+Currently seeking an internship opportunity in the IT field or actively looking for work in the area, I am a motivated student in Analysis and Systems Development eager to apply my theoretical knowledge in a practical environment.
 
-## I stand out for my history of delivering exceptional results, which led me to be directly contacted by Bradesco. My proactive approach and ability to deal with changes are crucial to meet expectations. At the end of the day, my commitment is to deliver consistent results to optimize operational efficiency.
+I stand out for my history of delivering exceptional results, which led me to be directly contacted by Bradesco. My proactive approach and ability to deal with changes are crucial to meet expectations. At the end of the day, my commitment is to deliver consistent results to optimize operational efficiency.
 
-## In the technical field, I have intermediate knowledge of the Microsoft Office package and basic skills in SQL, C#, JAVA, HTML, CSS and React. Currently, I am deepening my studies in computer networks, demonstrating my commitment to continuous learning and professional development.
+In the technical field, I have intermediate knowledge of the Microsoft Office package and basic skills in SQL, C#, JAVA, HTML, CSS and React. Currently, I am deepening my studies in computer networks, demonstrating my commitment to continuous learning and professional development.
 
-## Previously, I temporarily worked as a Technical Support Assistant, where I was responsible for various activities, including formatting, antivirus installation, help desk, encryption, user authentication on the network, and the use of Anydesk.
+Previously, I temporarily worked as a Technical Support Assistant, where I was responsible for various activities, including formatting, antivirus installation, help desk, encryption, user authentication on the network, and the use of Anydesk.
 
-## My goal is to combine my expertise in customer service and financial consulting with my technical skills, contributing significantly to the growth and success of the organization. I am always open to new challenges and opportunities for professional development.
+My goal is to combine my expertise in customer service and financial consulting with my technical skills, contributing significantly to the growth and success of the organization. I am always open to new challenges and opportunities for professional development.
 
