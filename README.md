@@ -27,9 +27,9 @@ Previously, I temporarily worked as a Technical Support Assistant, where I was r
 
 My goal is to combine my expertise in customer service and financial consulting with my technical skills, contributing significantly to the growth and success of the organization. I am always open to new challenges and opportunities for professional development.
 
-## Ferramentas e Tecnologias: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+## Ferramentas e Tecnologias: 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
- <link rel="Estou aprendendo" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
 
    
           
