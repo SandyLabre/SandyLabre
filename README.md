@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> # 👋 Hello! Welcome to my Github profile.
+# 👋 Hello! Welcome to my Github profile.
+## My name is Sandy and my nickname is "Labre Shima "!
+
+
