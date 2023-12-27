@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Sandy and my nickname is "Labre Shima "!
 
+https://tenor.com/pt-BR/view/viciadoemcodar-gif-26484614
+
 Currently seeking an internship opportunity in the IT field or actively looking for work in the area, I am a motivated student in Analysis and Systems Development eager to apply my theoretical knowledge in a practical environment.
 
 I stand out for my history of delivering exceptional results, which led me to be directly contacted by Bradesco. My proactive approach and ability to deal with changes are crucial to meet expectations. At the end of the day, my commitment is to deliver consistent results to optimize operational efficiency.
