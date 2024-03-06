@@ -37,6 +37,7 @@ My goal is to combine my expertise in customer service and financial consulting 
 
 ## I am learning:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
           
 
 <div>
