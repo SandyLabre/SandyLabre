@@ -36,7 +36,7 @@ Estou em busca de uma oportunidade para colocar em prática tudo o que tenho apr
 
 ### 🌐 Como me encontrar:
 <div align="center">
-  <a href="https://www.linkedin.com/in/sandy-labre">
+  <a href="https://www.linkedin.com/in/sandy-labre-shima-7a705b276/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
