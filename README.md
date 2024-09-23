@@ -2,7 +2,7 @@
 <h2 align="center">Desenvolvedora Front-end</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l4FGpP4lxGGgK5CBW/giphy.gif" width="100px"/>
+  <img src="https://media.giphy.com/media/l4FGpP4lxGGgK5CBW/giphy.gif" width="400px"/>
 </p>
 
 <div align="center">
