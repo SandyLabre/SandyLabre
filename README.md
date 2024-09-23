@@ -61,6 +61,9 @@
   <img src="https://raw.githubusercontent.com/sandy-labre/sandy-labre/main/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
+![Snake animation](https://github.com/sandy-labre/sandy-labre/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
 
