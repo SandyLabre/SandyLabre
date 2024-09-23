@@ -15,13 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> # 👋 Hello! Welcome to my Github profile.
 # 👋 Hello! Welcome to my Github profile.
-## My name is Sandy and my nickname is "Labre Shima "!
+## Olá, meu nome é Sandy Labre "!
 
-I am a student passionate about technology, studying the 4th period of Systems Analysis and Development.
+🚀 Apaixonada por Tecnologia | Estudante de Análise e Desenvolvimento de Sistemas
 
-I am currently looking for an internship in the field. I have experience with IDEs such as NetBeans and Visual Studio Code, as well as skills in HTML, CSS and Javascript.
+Atualmente, estou no último período de Análise e Desenvolvimento de Sistemas, sempre buscando oportunidades de aprender e evoluir na área de desenvolvimento web. 💻
 
-I believe that the skills acquired during graduation, added to extracurricular courses and previous experiences, can contribute to the team, adding new learning and values ​​to my personal and professional growth.
+Tenho experiência com ferramentas como NetBeans e Visual Studio Code, além de habilidades práticas em HTML, CSS e JavaScript — tecnologias nas quais estou focada para criar interfaces modernas e interativas. 🎨✨
+
+O que me move é a curiosidade e a paixão por resolver problemas. Acredito que minhas competências acadêmicas, somadas a cursos extracurriculares e projetos pessoais, me permitirão agregar valor e novos aprendizados a uma equipe de desenvolvimento, contribuindo também para o meu crescimento pessoal e profissional. 🌱
+
+Estou em busca de uma oportunidade para colocar em prática tudo o que tenho aprendido e seguir evoluindo na área de tecnologia.
 
 ## Contacts:
 <div>
