@@ -14,17 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> # 👋 Hello! Welcome to my Github profile.
-# 👋 Hello! Welcome to my Github profile.
-
-<h1 align="center">Olá! Eu sou a Sandy Labre 👋</h1>
+<h1 align="center">Olá! Eu sou o Sandy Labre 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=4000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Desenvolvedor+Front-End;Estudante+de+ADS; />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=4000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Desenvolvedor+Front-End;Estudante+de+ADS;Amante+de+Tecnologia+%26+Inovação" alt="Typing SVG" />
 </div>
+
 
 🚀 Apaixonada por Tecnologia | Estudante de Análise e Desenvolvimento de Sistemas
 
