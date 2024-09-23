@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=4000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Desenvolvedor+Front-End;Estudante+de+ADS; alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=4000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Desenvolvedor+Front-End;Estudante+de+ADS; />
 </div>
 
 🚀 Apaixonada por Tecnologia | Estudante de Análise e Desenvolvimento de Sistemas
