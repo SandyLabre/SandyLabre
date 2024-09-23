@@ -1,9 +1,17 @@
-<h1 align="center">Olá! Eu sou a Sandy Labre 👩‍💻</h1>
-<h2 align="center">Desenvolvedora Front-end</h2>
+<h1 align="center">🌸 Olá! Eu sou a Sandy Labre! 🌸</h1>
+<h2 align="center">✨ Desenvolvedora Front-end ✨</h2>
 
 <p align="center">
   <img src="https://media.giphy.com/media/l4FGpP4lxGGgK5CBW/giphy.gif" width="400px"/>
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abA6E69ZPz1t4ow/giphy.gif" width="200px" />
+</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=FF69B4&size=30&center=true&vCenter=true&width=450&lines=Seja+bem-vindo+ao+meu+perfil!;Aqui+é+onde+a+mágica+acontece!;Vamos+juntos+construir+coisas+incríveis!✨" alt="Typing SVG" />
+</div>
 
 ---
 
