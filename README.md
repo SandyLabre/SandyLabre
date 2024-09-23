@@ -5,8 +5,6 @@
   <img src="https://media.giphy.com/media/l4FGpP4lxGGgK5CBW/giphy.gif" width="400px"/>
 </p>
 
----
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=FF69B4&size=30&center=true&vCenter=true&width=450&lines=Seja+bem-vindo+ao+meu+perfil!✨" alt="Typing SVG" />
 </div>
