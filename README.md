@@ -12,70 +12,27 @@
 ---
 
 ### 🦄 Sobre Mim
-- 👩‍🎓 **Cursando**: Análise e Desenvolvimento de Sistemas (4º Período)
-- 💼 **Buscando**: Estágio em Desenvolvimento Web Front-end
-- 🌱 **Atualmente aprendendo**: React, TypeScript e animações CSS avançadas
-- ⚡ **Interesses**: UI/UX, Design Responsivo, Web Performance, Animações e Interatividade
-- 💬 **Entre em contato**: [LinkedIn](https://www.linkedin.com/in/sandy-labre) | [Email](mailto:sandy.labre@gmail.com)
+- 👩‍🎓 **Cursando**: Análise e Desenvolvimento de Sistemas (último período)
+- 🌱 **Atualmente aprendendo**: HTML, CSS, JavaScript
+- 💬 **Entre em contato**: [LinkedIn](https://www.linkedin.com/in/sandy-labre)
+- 🚀 Apaixonada por Tecnologia | Estudante de Análise e Desenvolvimento de Sistemas
+
+Atualmente, estou no último período de Análise e Desenvolvimento de Sistemas, sempre buscando oportunidades de aprender e evoluir na área de desenvolvimento web. 💻
+
+Tenho experiência com ferramentas como NetBeans e Visual Studio Code, além de habilidades práticas em HTML, CSS e JavaScript — tecnologias nas quais estou focada para criar interfaces modernas e interativas. 🎨✨
+
+O que me move é a curiosidade e a paixão por resolver problemas. Acredito que minhas competências acadêmicas, somadas a cursos extracurriculares e projetos pessoais, me permitirão agregar valor e novos aprendizados a uma equipe de desenvolvimento, contribuindo também para o meu crescimento pessoal e profissional. 🌱
+
+Estou em busca de uma oportunidade para colocar em prática tudo o que tenho aprendido e seguir evoluindo na área de tecnologia.
 
 ---
 
 ### 🎨 Minhas Habilidades:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,figma" alt="Ferramentas" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode," alt="Ferramentas" />
 </div>
 
 ---
-
-### 💼 Projetos em Destaque:
-<div align="center">
-  <a href="https://github.com/sandy-labre/CodeConnect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandy-labre&repo=CodeConnect&theme=vue-dark" />
-  </a>
-  <a href="https://github.com/sandy-labre/todo-list-js">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandy-labre&repo=todo-list-js&theme=vue-dark" />
-  </a>
-</div>
-
----
-
-### 💻 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandy-labre&theme=radical" alt="GitHub Streak"/>
-  <br>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sandy-labre&show_icons=true&theme=vue-dark" alt="GitHub Stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandy-labre&layout=compact&langs_count=8&theme=vue-dark" alt="Top Languages"/>
-</div>
-
----
-
-### 🎯 Objetivos:
-- Aprofundar conhecimentos em React.js e UI/UX Design.
-- Trabalhar em projetos criativos e inovadores que tragam impacto para os usuários.
-
----
-
-### 🎮 Interatividade com Animações
-<p align="center">
-  <img src="https://media.giphy.com/media/Yq1wZ9sdeqbpZhUOGo/giphy.gif" width="200px" alt="Coding GIF"/>
-</p>
-
-### 🌐 Como me encontrar:
-<div align="center">
-  <a href="https://www.linkedin.com/in/sandy-labre">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:sandy.labre@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-</div>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sandy-labre/sandy-labre/main/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
 
 
 
