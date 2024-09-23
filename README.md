@@ -39,9 +39,6 @@ Estou em busca de uma oportunidade para colocar em prática tudo o que tenho apr
   <a href="https://www.linkedin.com/in/sandy-labre">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:sandy.labre@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
 </div>
 
 ---
