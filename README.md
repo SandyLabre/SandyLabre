@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> # 👋 Hello! Welcome to my Github profile.
 # 👋 Hello! Welcome to my Github profile.
-## Olá, meu nome é Sandy Labre "!
+## Meu nome é Sandy Labre!
 
 🚀 Apaixonada por Tecnologia | Estudante de Análise e Desenvolvimento de Sistemas
 
