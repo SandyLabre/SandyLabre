@@ -5,10 +5,6 @@
   <img src="https://media.giphy.com/media/l4FGpP4lxGGgK5CBW/giphy.gif" width="400px"/>
 </p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=00FFAB&size=30&center=true&vCenter=true&width=450&lines=Desenvolvedora+Front-End;Apaixonada+por+Tecnologia; +💻" alt="Typing SVG" />
-</div>
-
 ---
 
 ### 🦄 Sobre Mim
