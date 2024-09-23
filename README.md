@@ -1,59 +1,74 @@
-<h1 align="center">Olá! Eu sou o Sandy Labre 👋</h1>
+<h1 align="center">Olá! Eu sou a Sandy Labre 👩‍💻</h1>
+<h2 align="center">Desenvolvedora Front-end</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/l4FGpP4lxGGgK5CBW/giphy.gif" width="50px"/>
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=4000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Desenvolvedor+Front-End;Estudante+de+ADS;Amante+de+Tecnologia+%26+Inovação" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=00FFAB&size=30&center=true&vCenter=true&width=450&lines=Desenvolvedora+Front-End;Apaixonada+por+Tecnologia;Em+constante+evolução+🚀;Sempre+aprendendo+nova+tecnologia+💻" alt="Typing SVG" />
 </div>
 
 ---
 
-### 💡 Sobre Mim
-- 🎓 **Cursando**: Análise e Desenvolvimento de Sistemas (4º Período)
-- 💼 **Buscando**: Estágio em Front-end e Desenvolvimento Web
-- 🌱 **Atualmente aprendendo**: React, TypeScript e animações CSS
-- ⚡ **Interesses**: Front-end, UI/UX, Design Responsivo, JavaScript, Web Performance
-- 💬 **Dicas de contato**: Me mande um e-mail ou entre em contato pelo [LinkedIn](https://www.linkedin.com/in/sandy-labre)
+### 🦄 Sobre Mim
+- 👩‍🎓 **Cursando**: Análise e Desenvolvimento de Sistemas (4º Período)
+- 💼 **Buscando**: Estágio em Desenvolvimento Web Front-end
+- 🌱 **Atualmente aprendendo**: React, TypeScript e animações CSS avançadas
+- ⚡ **Interesses**: UI/UX, Design Responsivo, Web Performance, Animações e Interatividade
+- 💬 **Entre em contato**: [LinkedIn](https://www.linkedin.com/in/sandy-labre) | [Email](mailto:sandy.labre@gmail.com)
 
 ---
 
-### 🚀 Minhas Habilidades
+### 🎨 Minhas Habilidades:
 <div align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff" alt="Git" />
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,figma" alt="Ferramentas" />
 </div>
 
 ---
 
-### 📊 Estatísticas do GitHub
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sandy-labre&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandy-labre&layout=compact&langs_count=8&theme=radical" alt="Most Used Languages"/>
-</div>
-
----
-
-### 🌟 Projetos Destacados
+### 💼 Projetos em Destaque:
 <div align="center">
   <a href="https://github.com/sandy-labre/CodeConnect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandy-labre&repo=CodeConnect&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandy-labre&repo=CodeConnect&theme=vue-dark" />
   </a>
   <a href="https://github.com/sandy-labre/todo-list-js">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandy-labre&repo=todo-list-js&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandy-labre&repo=todo-list-js&theme=vue-dark" />
   </a>
 </div>
 
 ---
 
-### ⚡ Como me encontrar:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandy-labre)
-- [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sandy.labre@gmail.com)
+### 💻 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandy-labre&theme=radical" alt="GitHub Streak"/>
+  <br>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sandy-labre&show_icons=true&theme=vue-dark" alt="GitHub Stats"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandy-labre&layout=compact&langs_count=8&theme=vue-dark" alt="Top Languages"/>
+</div>
+
+---
+
+### 🎯 Objetivos:
+- Aprofundar conhecimentos em React.js e UI/UX Design.
+- Trabalhar em projetos criativos e inovadores que tragam impacto para os usuários.
+
+---
+
+### 🎮 Interatividade com Animações
+<p align="center">
+  <img src="https://media.giphy.com/media/Yq1wZ9sdeqbpZhUOGo/giphy.gif" width="200px" alt="Coding GIF"/>
+</p>
+
+### 🌐 Como me encontrar:
+<div align="center">
+  <a href="https://www.linkedin.com/in/sandy-labre">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:sandy.labre@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
 
 ---
 
@@ -61,7 +76,6 @@
   <img src="https://raw.githubusercontent.com/sandy-labre/sandy-labre/main/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-![Snake animation](https://github.com/sandy-labre/sandy-labre/blob/output/github-contribution-grid-snake.svg)
 
 
 
