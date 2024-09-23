@@ -52,10 +52,6 @@ Estou em busca de uma oportunidade para colocar em prática tudo o que tenho apr
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=SandyLabre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sandy-labre/sandy-labre/main/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
 
 
 
