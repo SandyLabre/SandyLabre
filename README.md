@@ -14,7 +14,8 @@
 ### 🦄 Sobre Mim
 - 👩‍🎓 **Cursando**: Análise e Desenvolvimento de Sistemas (último período)
 - 🌱 **Atualmente aprendendo**: HTML, CSS, JavaScript
-- 💬 **Entre em contato**: [LinkedIn](https://www.linkedin.com/in/sandy-labre)
+- 💬 **Entre em contato**: <a href="https://www.linkedin.com/in/sandy-labre-shima-7a705b276/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+- 
 - 🚀 Apaixonada por Tecnologia | Estudante de Análise e Desenvolvimento de Sistemas
 
 Atualmente, estou no último período de Análise e Desenvolvimento de Sistemas, sempre buscando oportunidades de aprender e evoluir na área de desenvolvimento web. 💻
