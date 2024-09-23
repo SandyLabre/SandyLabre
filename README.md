@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I am a student passionate about technology, studying the 4th period of Systems Analysis and Development.
 
-I am currently looking for an internship in the field. I have experience with IDEs such as NetBeans and Visual Studio Code, as well as skills in Java, C#, SQL, Python, HTML, CSS and Javascript.
+I am currently looking for an internship in the field. I have experience with IDEs such as NetBeans and Visual Studio Code, as well as skills in HTML, CSS and Javascript.
 
 I believe that the skills acquired during graduation, added to extracurricular courses and previous experiences, can contribute to the team, adding new learning and values ​​to my personal and professional growth.
 
